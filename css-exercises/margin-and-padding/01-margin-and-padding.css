@@ -1,0 +1,19 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+div{
+    border: 3px solid red;
+}
+
+.one {
+    padding: 32px;
+    margin: 12px;
+}
+
+.three {
+    margin-left: 50%;
+    margin-top: 48px;
+    padding: 32px;
+}

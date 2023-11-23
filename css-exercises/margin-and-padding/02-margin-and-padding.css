@@ -1,0 +1,36 @@
+body {
+    max-width: 500px;
+    background-color: #C7C8CA;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card {
+    background-color: white;
+    padding: 8px;
+}
+
+.title {
+    background-color: #9FE1FD;
+    margin-bottom: 8px;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.content {
+    background-color: #9FE1FD;
+    padding: 16px 8px;
+    margin-bottom: 8px;
+}
+
+.button-container{
+    text-align: center;
+    background-color: #9FE1FD;
+    padding: 8px;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    border: 0.5px solid #C7C8CA;
+    padding: 8px 24px;
+    background-color: white
+}
