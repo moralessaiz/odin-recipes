@@ -20,6 +20,11 @@ html, body {
     width: 480px;
     border-radius: 10px;
     box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+    display: flex; 
+  }
+
+  .icon-left {
+    margin: 15px;
   }
 
   
@@ -36,7 +41,15 @@ html, body {
     align-items: center;
     justify-content: center;
   }
-  
+
+  .container {
+    margin: 15px;
+ }  
+
+ .question {
+  display: flex;
+  justify-content: space-between;
+ }
   .close-button {
     background: #eee;
     border-radius: 50%;
@@ -50,6 +63,10 @@ html, body {
     justify-content: center;
     border: 1px solid #eee;
     padding: 0;
+  }
+
+  .text {
+    margin: 10px auto;
   }
   
   button {
