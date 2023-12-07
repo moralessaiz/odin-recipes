@@ -1,5 +1,5 @@
 # odin-recipes
-This repository contains the Odin Projects made during the course
+This repository contains the Odin Projects HTML, CSS, FLEXBOX made during the Foundations Course
 
 # Ejercicios de CSS para comprender su sintaxis
 Ejercicios de flexbox para comprender su sintaxis y usos
