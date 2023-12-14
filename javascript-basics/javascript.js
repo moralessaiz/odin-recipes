@@ -22,4 +22,15 @@ let _ = 2;
 //alert($ + _)
 
 num = 5;
-alert(num);
+//alert(num);
+
+let admin;
+let name;
+
+name = "John";
+admin = name;
+//alert(admin)
+
+let earthPlanet = "Earth";
+let nameVisitor = "Pedro";
+
